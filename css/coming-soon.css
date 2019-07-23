@@ -76,7 +76,7 @@ video {
   width: 100%;
   min-height: 35rem;
   height: 100%;
-  background-color: #28a745d9;
+  background-color: #28a745d4;
   -webkit-transform: skewY(4deg);
   transform: skewY(4deg);
   -webkit-transform-origin: bottom right;
