@@ -22,7 +22,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Merriweather';
+  /* font-family: 'Merriweather'; */
   font-weight: 700;
 }
 
@@ -84,7 +84,7 @@ video {
 }
 
 .masthead .masthead-content h1 {
-  font-size: 1.9rem;
+  font-size: 2.7rem;
 }
 
 .masthead .masthead-content p {
@@ -129,7 +129,7 @@ video {
   }
 
   .masthead .masthead-content p {
-    font-size: 1.2rem;
+    font-size: 1.3rem;
   }
 }
 
